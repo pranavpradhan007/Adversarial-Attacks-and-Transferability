@@ -1,5 +1,7 @@
 # Adverserial-Attacks-Transferability
 
+Team Name - Maha Vikas Aghadi 
+
 This repository contains a Jupyter notebook (`dl-project-3.ipynb`) and accompanying scripts that implement and evaluate adversarial attacks on ImageNet-like data using a pre-trained ResNet-34 backbone. We explore single-step and iterative methods, patch-based attacks, and the transferability of these attacks to other architectures.
 
 ## Structure
