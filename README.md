@@ -9,12 +9,7 @@ This repository contains a Jupyter notebook (`dl-project-3.ipynb`) and accompany
 ```
 ├── dl-project-3.ipynb          # Main notebook implementing Tasks 1–5
 ├── README.md                   # This document
-└── datasets/
-    ├── TestDataSet/            # Original test set with 100 ImageNet classes
-    │   └── labels_list.json
-    ├── Adversarial_Test_Set_1/ # ε=0.02 FGSM perturbations
-    ├── Adversarial_Test_Set_2/ # ε=0.02 pixel-space FGSM (Task 2)
-    └── Adversarial_Test_Set_3/ # ε=0.5 single 32×32 patch PGD (Task 4)
+
 ```
 
 ## Tasks Overview
