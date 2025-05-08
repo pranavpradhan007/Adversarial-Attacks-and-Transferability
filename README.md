@@ -10,7 +10,7 @@ This repository contains a Jupyter notebook (`dl-project-3.ipynb`) and accompany
 ├── dl-project-3.ipynb          # Main notebook implementing Tasks 1–5
 ├── README.md                   # This document
 ├── adversarial_sets.zip        # Zip file containing all the data sets created by tasks
-├── TestDataSet.zip                 # Zip file containing Test data set used for the project
+├── TestDataSet.zip             # Zip file containing Test data set used for the project
 ```
 
 ## Tasks Overview
