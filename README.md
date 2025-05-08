@@ -1,4 +1,4 @@
-# Adverserial-Attacks-Transferability
+# Adverserial-Attacks-and-Transferability
 
 Team Name - Maha Vikas Aghadi 
 
